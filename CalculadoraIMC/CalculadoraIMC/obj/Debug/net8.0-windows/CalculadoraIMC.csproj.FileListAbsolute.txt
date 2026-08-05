@@ -1,0 +1,17 @@
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.exe
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.deps.json
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.runtimeconfig.json
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\bin\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.AssemblyInfo.cs
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.dll
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\refint\CalculadoraIMC.dll
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.pdb
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.genruntimeconfig.cache
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\ref\CalculadoraIMC.dll
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.lblCalculadoraImc.resources
+C:\Bruno Amancio Corrêa\C# - Atividades\CalculadoraIMC\CalculadoraIMC\obj\Debug\net8.0-windows\CalculadoraIMC.Properties.Resources.resources
